@@ -19,5 +19,16 @@ namespace WingWar
         public Vector3 offset = new Vector3(0.0f, 8.0f, 0.0f);
         public Vector3 offsetInverse = new Vector3(0.0f, -8.0f, 0.0f);
         public float scale = 1.0f;
+
+        public GameObject()
+        {
+        }
+
+        public GameObject(Vector3 startPos, Quaternion startRot, float startScale)
+        {
+            position = startPos;
+            rotation = startRot;
+            scale = startScale;
+        }
     }
 }
