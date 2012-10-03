@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\plane.fbx</Source>
+      <Name>Models\plane</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\plane.xnb</Output>
+      <Time>2012-10-03T10:53:05.3352841+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\plane_0.xml</Key>
+        <Value>2012-10-03T10:53:23.1783047+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\jet.fbx</Source>
+      <Name>Models\jet</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\jet.xnb</Output>
+      <Time>2012-10-03T10:53:05.3242835+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\jet_0.xml</Key>
+        <Value>2012-10-03T10:53:23.3813163+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\plane.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\plane_0.xml</Output>
+      <Time>2012-10-03T10:53:05.3352841+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\jet.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\jet_0.xml</Output>
+      <Time>2012-10-03T10:53:05.3242835+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\J\Downloads\WingWar\WingWar\WingWarContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\J\Downloads\WingWar\WingWar\WingWar\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\J\Downloads\WingWar\WingWar\WingWarContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-02T16:12:46.6743419+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

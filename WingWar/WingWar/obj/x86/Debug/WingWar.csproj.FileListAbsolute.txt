@@ -1,0 +1,32 @@
+F:\Jack\Uni Work\Year 3\Computing Project\WingWar\WingWar\WingWar\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Jack\Uni Work\Year 3\Computing Project\WingWar\WingWar\WingWar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Jack\Uni Work\Year 3\Computing Project\WingWar\WingWar\WingWar\bin\x86\Debug\WingWar.exe
+F:\Jack\Uni Work\Year 3\Computing Project\WingWar\WingWar\WingWar\bin\x86\Debug\WingWar.pdb
+F:\Jack\Uni Work\Year 3\Computing Project\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.exe
+F:\Jack\Uni Work\Year 3\Computing Project\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.pdb
+F:\Jack\Uni Work\Year 3\Computing Project\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\plane.xnb
+F:\Jack\Uni Work\Year 3\Computing Project\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\jet.xnb
+I:\Uni Work\Year 3\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\plane.xnb
+I:\Uni Work\Year 3\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\jet.xnb
+I:\Uni Work\Year 3\WingWar\WingWar\WingWar\bin\x86\Debug\WingWar.exe
+I:\Uni Work\Year 3\WingWar\WingWar\WingWar\bin\x86\Debug\WingWar.pdb
+I:\Uni Work\Year 3\WingWar\WingWar\WingWar\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Uni Work\Year 3\WingWar\WingWar\WingWar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Uni Work\Year 3\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.exe
+I:\Uni Work\Year 3\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.pdb
+F:\Uni Work\Year 3\CGD\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\plane.xnb
+F:\Uni Work\Year 3\CGD\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\jet.xnb
+F:\Uni Work\Year 3\CGD\WingWar\WingWar\WingWar\bin\x86\Debug\WingWar.exe
+F:\Uni Work\Year 3\CGD\WingWar\WingWar\WingWar\bin\x86\Debug\WingWar.pdb
+F:\Uni Work\Year 3\CGD\WingWar\WingWar\WingWar\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Uni Work\Year 3\CGD\WingWar\WingWar\WingWar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Uni Work\Year 3\CGD\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.exe
+F:\Uni Work\Year 3\CGD\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.pdb
+C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\plane.xnb
+C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\jet.xnb
+C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\WingWar.exe
+C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\WingWar.pdb
+C:\Users\J\Downloads\WingWar\WingWar\WingWar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\J\Downloads\WingWar\WingWar\WingWar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\J\Downloads\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.exe
+C:\Users\J\Downloads\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.pdb
