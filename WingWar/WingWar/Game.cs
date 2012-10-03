@@ -14,19 +14,19 @@ namespace WingWar
     /// <summary>
     /// This is the main type for your game
     /// </summary>
-    public class Game1 : Microsoft.Xna.Framework.Game
+    public class Game : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        GameObject plane = new GameObject();
-        GameObject jet = new GameObject();
+        GameObject groundPlane = new GameObject(new Vector3(0,0,0), new Quaternion(0, 0, 0, 1), 1.0f);
+        GameObject jet = new GameObject(new Vector3(0, 1, 0), new Quaternion(0, 0, 0, 1), 1.0f);
 
         Camera player1Cam = new Camera();
 
         float moveSpeed = 0.3f, turningSpeed = 0.01f, yaw = 0, pitch = 0, roll = 0;
 
-        public Game1()
+        public Game()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
@@ -56,7 +56,7 @@ namespace WingWar
 
             // TODO: use this.Content to load your game content here
 
-            plane.model = Content.Load<Model>("Models//plane");
+            groundPlane.model = Content.Load<Model>("Models//plane");
             jet.model = Content.Load<Model>("Models//jet");
 
             float viewPort = (float)graphics.GraphicsDevice.Viewport.Width / (float)graphics.GraphicsDevice.Viewport.Height;
@@ -106,7 +106,7 @@ namespace WingWar
 
             // TODO: Add your drawing code here
 
-            DrawGameObject(plane); DrawGameObject(jet);
+            DrawGameObject(groundPlane); DrawGameObject(jet);
 
             base.Draw(gameTime);
         }

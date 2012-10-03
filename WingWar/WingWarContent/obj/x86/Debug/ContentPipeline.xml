@@ -7,11 +7,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\plane.xnb</Output>
+      <Output>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\bin\x86\Debug\Content\Models\plane.xnb</Output>
       <Time>2012-10-03T10:53:05.3352841+01:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\plane_0.xml</Key>
-        <Value>2012-10-03T10:53:23.1783047+01:00</Value>
+        <Value>2012-10-03T12:03:07.9377914+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -20,11 +20,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\Content\Models\jet.xnb</Output>
+      <Output>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\bin\x86\Debug\Content\Models\jet.xnb</Output>
       <Time>2012-10-03T10:53:05.3242835+01:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\jet_0.xml</Key>
-        <Value>2012-10-03T10:53:23.3813163+01:00</Value>
+        <Value>2012-10-03T12:03:08.1218019+01:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -47,10 +47,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\J\Downloads\WingWar\WingWar\WingWarContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\J\Downloads\WingWar\WingWar\WingWar\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\J\Downloads\WingWar\WingWar\WingWarContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\J\Downloads\WingWar\WingWar\WingWar\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWarContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWarContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>pPlane1</Name>
     <Identity>
-      <SourceFilename>C:\Users\J\Downloads\WingWar\WingWar\WingWarContent\Models\plane.fbx</SourceFilename>
+      <SourceFilename>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWarContent\Models\plane.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -37,7 +37,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>blinn3</Name>
       <Identity>
-        <SourceFilename>C:\Users\J\Downloads\WingWar\WingWar\WingWarContent\Models\plane.fbx</SourceFilename>
+        <SourceFilename>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWarContent\Models\plane.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -51,7 +51,7 @@
     <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
       <Name>blinn2</Name>
       <Identity>
-        <SourceFilename>C:\Users\J\Downloads\WingWar\WingWar\WingWarContent\Models\plane.fbx</SourceFilename>
+        <SourceFilename>C:\Users\J\Documents\GitHub\CGD\WingWar\WingWarContent\Models\plane.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

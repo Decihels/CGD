@@ -30,3 +30,11 @@ C:\Users\J\Downloads\WingWar\WingWar\WingWar\obj\x86\Debug\ResolveAssemblyRefere
 C:\Users\J\Downloads\WingWar\WingWar\WingWar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\J\Downloads\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.exe
 C:\Users\J\Downloads\WingWar\WingWar\WingWar\obj\x86\Debug\WingWar.pdb
+C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\bin\x86\Debug\Content\Models\plane.xnb
+C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\bin\x86\Debug\Content\Models\jet.xnb
+C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\bin\x86\Debug\WingWar.exe
+C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\bin\x86\Debug\WingWar.pdb
+C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\obj\x86\Debug\WingWar.exe
+C:\Users\J\Documents\GitHub\CGD\WingWar\WingWar\obj\x86\Debug\WingWar.pdb
